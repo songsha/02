@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "850CF3548ADD38620A4E9A2C23F79FCF9BC05641",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "850CF3548ADD38620A4E9A2C23F79FCF9BC05641" : 9223372036854775807,
+    "B0F7BBBAC2BD48A8E6E3A86A353824879BC0F3D7" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A8692A2F-3A2F-4E0F-A431-818978E54DE5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "850CF3548ADD38620A4E9A2C23F79FCF9BC05641" : "02\/",
+    "B0F7BBBAC2BD48A8E6E3A86A353824879BC0F3D7" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "kvo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "kvo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/songsha\/02.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "850CF3548ADD38620A4E9A2C23F79FCF9BC05641"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:18363857227@163.com\/learngit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B0F7BBBAC2BD48A8E6E3A86A353824879BC0F3D7"
+    }
+  ]
+}
